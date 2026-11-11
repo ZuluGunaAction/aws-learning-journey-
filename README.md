@@ -1,5 +1,5 @@
-# aws-learning-journey-
-My practical journey towards an AWS Cloud Engineer.
+# aws-learning-journey.
+My practical journey towards becoming an AWS Cloud Engineer.
 
 ## About Me
 I am developing practical skills to become an AWS Engineer and Solution Architect.
